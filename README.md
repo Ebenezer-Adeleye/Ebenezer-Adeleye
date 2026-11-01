@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ebenezer Ojo Adeleye
 
-<!--
-**Ebenezer-Adeleye/Ebenezer-Adeleye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Cyber Analyst building hands-on skills in offensive and defensive security through a self-built home lab. I document everything I learn here — real exploits, real troubleshooting, real write-ups.
 
-Here are some ideas to get you started:
+- 🔭 Currently: Junior Cyber Analyst at Makatob Securities, running vulnerability scans, building lab environments, and documenting findings
+- 🧪 Lab: VirtualBox-based environment (Kali Linux, Metasploitable 2, Ubuntu Server) for safe, isolated offensive/defensive practice
+- 📜 Training: Cisco Introduction to Cybersecurity · Makatob IT Securities Cybersecurity Essentials · Novashyld Technologies Cybersecurity Analyst Internship Program
+- 🌱 Learning: network fundamentals, vulnerability assessment, and SOC/Blue Team fundamentals
+- 💬 Languages: English, Yoruba
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/ebenezer-adeleye-753ba5425)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [vsftpd 2.3.4 Backdoor Exploitation](#) | Manual and automated exploitation of CVE-2011-2523 against Metasploitable 2, with full write-up and remediation notes |
+| [Network Design & Subnetting](#) | End-to-end network design and subnetting project for a fictional IT security client, built in Packet Tracer |
+
+*(Links will be added as each project repo is finalized.)*
+
+## Tools & Technologies
+
+`Kali Linux` · `Nmap` · `Metasploit` · `VirtualBox` · `Wireshark` · `DVWA` · `Linux CLI`
+
+---
+
+*This profile documents hands-on cybersecurity work completed in a personal, isolated lab environment for learning purposes.*
