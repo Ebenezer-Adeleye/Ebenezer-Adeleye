@@ -7,7 +7,7 @@ Junior Cyber Analyst building hands-on skills in offensive and defensive securit
 - 📜 Training: Cisco Introduction to Cybersecurity · Makatob IT Securities Cybersecurity Essentials · Novashyld Technologies Cybersecurity Analyst Internship Program
 - 🌱 Learning: network fundamentals, vulnerability assessment, and SOC/Blue Team fundamentals
 - 💬 Languages: English, Yoruba
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/ebenezer-adeleye-753ba5425)
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/ebenezer-adeleye)
 
 ---
 
@@ -15,10 +15,10 @@ Junior Cyber Analyst building hands-on skills in offensive and defensive securit
 
 | Project | Description |
 |---|---|
-| [vsftpd 2.3.4 Backdoor Exploitation](#) | Manual and automated exploitation of CVE-2011-2523 against Metasploitable 2, with full write-up and remediation notes |
+| [vsftpd 2.3.4 Backdoor Exploitation](https://github.com/Ebenezer-Adeleye/vsftpd-234-backdoor-metasploitable) | Manual and automated exploitation of CVE-2011-2523 against Metasploitable 2, with full write-up and remediation notes |
 | [Network Design & Subnetting](#) | End-to-end network design and subnetting project for a fictional IT security client, built in Packet Tracer |
 
-*(Links will be added as each project repo is finalized.)*
+*(Remaining links will be added as each project repo is finalized.)*
 
 ## Tools & Technologies
 
